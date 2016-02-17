@@ -50,10 +50,10 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#">About</a>
+                        <a href="web.njit.edu/~ms823/javacript/aboutme.html">About</a>
                     </li>
                     <li>
-                        <a href="#">Services</a>
+                        <a href="https://web.njit.edu/~ms823/javascript/services.html">Services</a>
                     </li>
                     <li>
                         <a href="#">Contact</a>
