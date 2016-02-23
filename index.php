@@ -50,7 +50,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="file:///C:/Users/Michael/Documents/bootstrap-3.3.6-dist/aboutme.php">aboutme</a>
+                        <a href="file:///C:/Users/Michael/Documents/GitHub/is219s16sungurov-p1/aboutmeme.html">aboutme</a>
                     <li>
                         <a href="file:///C:/Users/Michael/Documents/bootstrap-3.3.6-dist/services.php">Services</a>
                     </li>
