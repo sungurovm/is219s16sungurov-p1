@@ -92,8 +92,7 @@
 				Watched over patrons while swimming, cleaned the pool area and making it look presentable to the public, helped with chemical testing, helped with pool maintenance, also taught other lifeguard about general rules during their first shifts.
 				James W. Roe memorial pool lifeguard
 				June  2013-August 2013
-				Watched over patrons, performed first-aid tasks, rescues, also assisted with pool maintenance.
-</p>
+				Watched over patrons, performed first-aid tasks, rescues, also assisted with pool maintenance.</p>
                     <p>Skills: Microsoft word, Microsoft excel, PowerPoint, event planning, php, html, css, SQL, 
 					statistics, history, piano playing, swimming, economics, accounting, corporate finance</p>
 					<p>NJIT academics
