@@ -50,12 +50,12 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="https://web.njit.edu/~ms823/javascript/aboutme.html">aboutme</a>
+                        <a href="file:///C:/Users/Michael/Documents/bootstrap-3.3.6-dist/aboutme.php">aboutme</a>
                     <li>
-                        <a href="https://web.njit.edu/~ms823/javascript/services.html">Services</a>
+                        <a href="file:///C:/Users/Michael/Documents/bootstrap-3.3.6-dist/services.php">Services</a>
                     </li>
                     <li>
-                        <a href="https://web.njit.edu/~ms823/javascript/contact_information.html">Contact</a>
+                        <a href="file:///C:/Users/Michael/Documents/bootstrap-3.3.6-dist/contact.php">Contact</a>
                     </li>
                 </ul>
             </div>
