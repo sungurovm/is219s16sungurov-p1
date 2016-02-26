@@ -78,7 +78,7 @@
                     <hr>
                 </div>
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="img/slide-2.jpg" alt="">
+                    <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAMqAAAAJGQzNjBkMGY2LTE5MGUtNGMxZS1iMzdlLTljYjc2OTRhZGRmNg.jpg"/>
                 </div>
                 <div class="col-md-6">
                     <p>Summary: I am a person with many unique qualities about me. For one I am a fast learner and have always strived to further my academic success. I have grown from autistic special education student in my youth, 
