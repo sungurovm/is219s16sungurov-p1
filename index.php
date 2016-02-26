@@ -52,14 +52,12 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
+                   
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="https://is219s16sungurovp1.herokuapp.com/services.php">services</a>
                     </li>
                     <li>
-                        <a href="about.html">About</a>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="https://is219s16sungurovp1.herokuapp.com/contact.php">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -86,15 +84,17 @@
                     <p>Summary: I am a person with many unique qualities about me. For one I am a fast learner and have always strived to further my academic success. I have grown from autistic special education student in my youth, 
 					to honors high school graduate and dean’s list honor roll in college. Not many can say they have overcome as many obstacles as I have in my past. The one thing that keeps me pushing forward 
 					is the exhilarating feeling I know my wealth of knowledge has been growing and accumulating further throughout the years. My ability to learn quickly has helped me in my academic success and throughout my life. My university GPA has been steadily increasing every semester since I started.</p>
-                    <p>Work Experience: 
-				Senior  Lifeguard: The Estelle & Zoom Fleisher athletic Center
-				January 2014-present Newark, NJ
-				Watched over patrons while swimming, cleaned the pool area and making it look presentable to the public, helped with chemical testing, helped with pool maintenance, also taught other lifeguard about general rules during their first shifts.
-				James W. Roe memorial pool lifeguard
-				June  2013-August 2013
-				Watched over patrons, performed first-aid tasks, rescues, also assisted with pool maintenance.</p>
-                    <p>Skills: Microsoft word, Microsoft excel, PowerPoint, event planning, php, html, css, SQL, 
-					statistics, history, piano playing, swimming, economics, accounting, corporate finance</p>
+                    <ul>Work Experience:
+				<li>Senior  Lifeguard: The Estelle & Zoom Fleisher athletic Center</li>
+				<li>January 2014-present Newark, NJ</li>
+				<li>Watched over patrons while swimming, cleaned the pool area and making it look presentable to the public, helped with chemical testing, helped with pool maintenance, also taught other lifeguard about general rules during their first shifts.</li>
+				</ul>
+				<ul>James W. Roe memorial pool lifeguard</ul>
+				<li>June  2013-August 2013</li>
+				<li>Watched over patrons, performed first-aid tasks, rescues, also assisted with pool maintenance.</li>
+                    <li>Skills: Microsoft word, Microsoft excel, PowerPoint, event planning, php, html, css, SQL, 
+					statistics, history, piano playing, swimming, economics, accounting, corporate finance</li>
+					</ul>
 					<p>NJIT academics
 •	3.4 gpa cumulative 
 •	Dean’s list every semester
