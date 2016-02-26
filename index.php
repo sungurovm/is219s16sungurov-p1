@@ -9,18 +9,17 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Bare - Start Bootstrap Template (for IS219)</title>
+    <title>About - Business Casual - Start Bootstrap Theme</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <style>
-    body {
-        padding-top: 70px;
-        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-    }
-    </style>
+    <link href="css/business-casual.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -33,8 +32,11 @@
 
 <body>
 
+    <div class="brand">Michael Sungurov</div>
+    <div class="address-bar">07470, 34 Parkside Court, Wayne, New Jersey</div>
+
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-default" role="navigation">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -44,18 +46,20 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Start Bootstrap</a>
+                <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
+                <a class="navbar-brand" href="index.html">Me</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="https://web.njit.edu/~ms823/javascript/aboutme.php">aboutme</a>
-                    <li>
-                        <a href="https://web.njit.edu/~ms823/javascript/services.php">Services</a>
+                        <a href="index.html">Home</a>
                     </li>
                     <li>
-                        <a href="https://web.njit.edu/~ms823/javascript/contacts.php">Contact</a>
+                        <a href="about.html">About</a>
+                    </li>
+                    <li>
+                        <a href="contact.html">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -64,25 +68,68 @@
         <!-- /.container -->
     </nav>
 
-    <!-- Page Content -->
     <div class="container">
 
         <div class="row">
-            <div class="col-lg-12 text-center">
-                <h1>A Bootstrap Starter Template for IS219</h1>
-                <p class="lead">Complete with pre-defined file paths that you won't have to change!</p>
-                <ul class="list-unstyled">
-                    <li>Bootstrap v3.3.6</li>
-                    <li>jQuery v1.11.1</li>
-                </ul>
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">About
+                        <strong>business casual</strong>
+                    </h2>
+                    <hr>
+                </div>
+                <div class="col-md-6">
+                    <img class="img-responsive img-border-left" src="img/slide-2.jpg" alt="">
+                </div>
+                <div class="col-md-6">
+                    <p>Summary: I am a person with many unique qualities about me. For one I am a fast learner and have always strived to further my academic success. I have grown from autistic special education student in my youth, 
+					to honors high school graduate and dean’s list honor roll in college. Not many can say they have overcome as many obstacles as I have in my past. The one thing that keeps me pushing forward 
+					is the exhilarating feeling I know my wealth of knowledge has been growing and accumulating further throughout the years. My ability to learn quickly has helped me in my academic success and throughout my life. My university GPA has been steadily increasing every semester since I started.</p>
+                    <p>Work Experience: 
+				Senior  Lifeguard: The Estelle & Zoom Fleisher athletic Center
+				January 2014-present Newark, NJ
+				Watched over patrons while swimming, cleaned the pool area and making it look presentable to the public, helped with chemical testing, helped with pool maintenance, also taught other lifeguard about general rules during their first shifts.
+				James W. Roe memorial pool lifeguard
+				June  2013-August 2013
+				Watched over patrons, performed first-aid tasks, rescues, also assisted with pool maintenance.</p>
+                    <p>Skills: Microsoft word, Microsoft excel, PowerPoint, event planning, php, html, css, SQL, 
+					statistics, history, piano playing, swimming, economics, accounting, corporate finance</p>
+					<p>NJIT academics
+•	3.4 gpa cumulative 
+•	Dean’s list every semester
+•	Studying business/finance and minoring in information systems</p>
+<p>Wayne Hills High School:
+•	Graduated with a 3.7 gpa
+•	Symphonic band
+•	Swimming team, all-county in multiple events for swimming</p>
+<p>Division 1 swimming NJIT
+•	3 year recipient of academic honors awards
+•	CCSA swimming finalist
+•	Dean’s list every semester while balancing division 1 athletics on top of that</p>
+<p>Volunteering: 
+Assembly worker: community food bank of New Jersey January 2015
+Description: Helped pre-package food for the troubled areas of Newark.  Helped take care of assembling boxes of food.
+Statistics boy: NJIT basketball
+Description: Helped out with and kept track of statistics during NJIT's basketball games against Howard, Cleveland State, and University of New Hampshire.</p>
+                </div>
+                <div class="clearfix"></div>
             </div>
         </div>
-        <!-- /.row -->
 
-    </div>
     <!-- /.container -->
 
-    <!-- jQuery Version 1.11.1 -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p>Copyright &copy; Your Website 2014</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
